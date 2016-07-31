@@ -1,0 +1,38 @@
+Category,Color Group,Item
+Produce,Breakfast,(B) Apple
+Produce,Breakfast,"(B) Veggies for Omelet (Peppers, Mushrooms, Onions, etc.)"
+Produce,"Breakfast,Lunch,Dinner","(B, L, D) 5 Zucchinis"
+Produce,Breakfast,(B) Fresh Blueberries
+Produce,"Breakfast,Lunch","(B, L) Cantaloupe"
+Produce,Lunch,(L) Green Pepper
+Produce,"Lunch,Dinner","(L, D) 3 Hearts of Romaine Lettuce"
+Produce,"Lunch,Dinner","(L, D) Veggies for 3 Salads"
+Produce,Lunch,(L) Tomatoes for 3 meals
+Produce,Lunch,(L) Green Onions
+Produce,Dinner,(D) Feta Cheese (1/4 - 1/2 cup)
+Produce,Dinner,(D) Garlic - 14 cloves
+Produce,Dinner,(D) Cabbage (medium head)
+Produce,Dinner,(D) Carrots (1 cup shredded)
+Produce,Dinner,(D) Onions (2 medium)
+Produce,Dinner,(D) Veggies for Pizza (E style)
+Produce,Dinner,(D) Large Bell Pepper
+Produce,Dinner,(D) Cilantro 
+Meat,Breakfast,(B) Bacon (Turkey or Regular)
+Meat,Lunch,(L) Lean Deli Meat
+Meat,"Lunch,Dinner","(L, D) Ground Beef - 5lbs"
+Meat,Lunch,(L) Chicken Breast (enough for 2 lunches and 1 dinner)
+Meat,Dinner,(D) Ground Pork - 1lb
+Dairy,Breakfast,(B) Liquid Egg Whites
+Dairy,"Breakfast,Lunch,Dinner","(B, L, D) 0% Greek Yogurt (2 Large Containers)"
+Dairy,Breakfast,(B) Eggs
+Dairy,Breakfast,"(B, L, D) Monterrey Jack Cheese"
+Dairy,"Breakfast,Lunch","(B, L) Unsweetened Vanilla Almond Milk"
+Dairy,Breakfast,(B) Butter
+Dairy,"Breakfast,Lunch","(B, L) Low Fat Cottage Cheese"
+Dairy,"Lunch,Dinner","(L, D) Skim Mozzarella Cheese"
+Dairy,Dinner,(D) Parmesan Cheese
+Dairy,Dinner,(D) Heavy Cream
+Frozen Food,Breakfast,(B) Mixed Berries
+Frozen Food,Lunch,(L) Salmon Fillets
+Frozen Food,Dinner,(D) Chicken Tenderloins( for 2 meals)
+Frozen Food,Dinner,(D) Stir Fry Veggies
